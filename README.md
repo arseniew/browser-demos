@@ -1,2 +1,4 @@
-# browser-demos
-Collection of JS Bins
+|Description|Link|
+|-----------|----|
+|Event order|https://jsbin.com/linudidewi/edit?js,console,output|
+|React component lifecycle|https://jsbin.com/tujixuporu/edit?html,console,output|
