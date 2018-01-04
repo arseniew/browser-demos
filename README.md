@@ -5,3 +5,4 @@
 |Drag & drop|https://jsfiddle.net/r4oyecmx/|
 |CSS animation/inflight changes|https://jsbin.com/huqivesuga/edit?css,js,output|
 |CSS grid|https://jsbin.com/zanutanobe/edit?html,css,output|
+|React 16 Error Boundry|https://jsbin.com/yulozuvuxi/1/edit?html,js,output|
